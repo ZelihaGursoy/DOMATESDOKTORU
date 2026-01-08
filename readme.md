@@ -12,7 +12,7 @@ Optimize Mimari: TensorFlow Lite teknolojisi sayesinde düşük enerji tüketimi
 
 Zirai Rehberlik: Teşhis sonrası doğru ilaçlama ve budama gibi somut çözüm önerileri sağlar.
 
-KULLANILAN TEKNOLOJİLER
+KULLANILAN TEKNOLOjİLER
 
 Android Studio (Java): Uygulama arayüzü ve ana mimari.
 
