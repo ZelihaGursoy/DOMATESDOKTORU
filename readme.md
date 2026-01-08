@@ -1,8 +1,8 @@
-#Domates Doktoru: Mobil Yapay Zeka Destekli Hastalık Teşhis Sistemi
+Domates Doktoru: Mobil Yapay Zeka Destekli Hastalık Teşhis Sistemi
 
 Domates Doktoru, domates bitkilerindeki hastalıkları saniyeler içinde, internete ihtiyaç duymadan tespit eden mobil bir karar destek sistemidir.
 
-##ÖNE ÇIKAN ÖZELLİKLER
+ÖNE ÇIKAN ÖZELLİKLER
 
 Edge AI (Çevrimdışı Analiz): Görüntü işleme sürecini tamamen cihaz üzerinde gerçekleştirerek internet erişimi olmayan sahalarda bile teşhis imkanı sunar.
 Yüksek Güvenilirlik: "Güven Eşiği" algoritması ile bitki dışı nesneleri (bardak vb.) ayırt ederek hatalı teşhisleri önler.
