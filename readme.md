@@ -5,22 +5,31 @@ Domates Doktoru, domates bitkilerindeki hastalıkları saniyeler içinde, intern
 ÖNE ÇIKAN ÖZELLİKLER
 
 Edge AI (Çevrimdışı Analiz): Görüntü işleme sürecini tamamen cihaz üzerinde gerçekleştirerek internet erişimi olmayan sahalarda bile teşhis imkanı sunar.
+
 Yüksek Güvenilirlik: "Güven Eşiği" algoritması ile bitki dışı nesneleri (bardak vb.) ayırt ederek hatalı teşhisleri önler.
+
 Optimize Mimari: TensorFlow Lite teknolojisi sayesinde düşük enerji tüketimi ve yüksek hızla çalışır.
+
 Zirai Rehberlik: Teşhis sonrası doğru ilaçlama ve budama gibi somut çözüm önerileri sağlar.
 
 KULLANILAN TEKNOLOJİLER
 
 Android Studio (Java): Uygulama arayüzü ve ana mimari.
+
 TensorFlow Lite: Mobil yapay zeka optimizasyonu.
+
 CNN (Convolutional Neural Networks): Görüntü işleme modeli.
+
 Camera API: Yüksek çözünürlüklü görüntü yakalama.
 
 KULLANIM ŞEKLİ
 
 Görüntüleme: Uygulama üzerinden yaprağın fotoğrafını çekin veya galeriden seçin.
+
 Analiz: Sistem internete gerek duymadan görüntüyü anlık olarak analiz eder.
+
 Doğrulama: Güvenlik filtresi hatalı nesneleri eler ve doğruluğu kontrol eder.
+
 Sonuç: Teşhis edilen hastalık ve tedavi yöntemleri ekrana yansıtılır
 
 HEDEF VE ETKİ
