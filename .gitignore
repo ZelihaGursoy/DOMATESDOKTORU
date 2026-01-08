@@ -9,7 +9,17 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
+/app/build
 /captures
 .externalNativeBuild
 .cxx
 local.properties
+
+# Log dosyaları
+*.log
+hs_err_pid*.log
+replay_pid*.log
+
+# Windows
+desktop.ini
+Thumbs.db
